@@ -1,0 +1,8 @@
+.show-transactions {
+    min-width: 370px;
+    min-height: 200px;
+    border: 1px solid white;
+    margin-top: 30px;
+    padding: 15px;
+    text-align: initial;
+}
